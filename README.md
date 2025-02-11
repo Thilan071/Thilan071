@@ -22,5 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilan071&show_icons=true&locale=en" alt="thilan071" /></p>
 
 
-## Watch snake eating my github Contributions
-![Snake animation](https://github.com/Thilan071/Thilan071/blob/output/github-contribution-grid-snake.svg)
+## Watch snake eating my GitHub Contributions
+![Snake animation](https://raw.githubusercontent.com/Thilan071/Thilan071/output/github-contribution-grid-snake.svg)
+
