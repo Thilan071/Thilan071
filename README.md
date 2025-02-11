@@ -17,6 +17,13 @@
 
 <hr>
 
+<div align="center">
+  <h3>Check out my portfolio!</h3>
+  <a href="https://thilantheekshana.netlify.app/" target="_blank">Visit my Portfolio</a>
+</div>
+
+<hr>
+
 <div align="left">
   <h3>Connect with me:</h3>
   <p>
