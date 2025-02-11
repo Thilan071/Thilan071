@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") /> </p>
-- 🔭 I’m currently working on **Online Penalty Pay app**
+- 🔭 I’m currently working on **Flutter App Development**
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Java & Java Script**
 - ⚡ Fun fact **I think I am very funny**
