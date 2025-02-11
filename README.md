@@ -46,5 +46,6 @@
 
 <div align="center">
   <img src="https://github.com/Thilan071/Thilan071/blob/output/github-snake-dark.svg" alt="snake gif">
-  <p><em>My contributions are slowly being devoured by the snake 🐍</em></p>
+  <p><strong><em>Watch my contributions slither through the code! 🐍</em></strong></p>
+  <p><small>Every little bit counts—just like the snake devouring my progress!</small></p>
 </div>
