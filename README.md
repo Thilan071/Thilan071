@@ -22,7 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilan071&show_icons=true&locale=en" alt="thilan071" /></p>
 
 
-## 🐍 Watch Snake Eating My Contributions
-![Snake animation](https://raw.githubusercontent.com/Thilan071/Thilan071/output/github-contribution-grid-snake.svg)
+
 
 
