@@ -23,4 +23,4 @@
 
 
 ## Watch snake eating my github Contributions
-![snake gif](https://github.com/Thilan071/Thilan071/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thilan071/Thilan071/blob/output/github-contribution-grid-snake.svg)
