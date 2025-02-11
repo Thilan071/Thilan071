@@ -22,6 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilan071&show_icons=true&locale=en" alt="thilan071" /></p>
 
 
-
+<div align="center">
+    <img src="https://github.com/Thilan071/Thilan071/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 
 
