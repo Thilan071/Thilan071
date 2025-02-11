@@ -46,4 +46,5 @@
 
 <div align="center">
   <img src="https://github.com/Thilan071/Thilan071/blob/output/github-snake-dark.svg" alt="snake gif">
+  <p><em>My contributions are slowly being devoured by the snake 🐍</em></p>
 </div>
