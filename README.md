@@ -15,6 +15,8 @@
   - ⚡ Fun fact **I think I am very funny**
 </p>
 
+<hr>
+
 <div align="left">
   <h3>Connect with me:</h3>
   <p>
@@ -24,6 +26,8 @@
     <a href="https://discord.gg/thilan-theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thilan theekshana" height="30" width="40" /></a>
   </p>
 </div>
+
+<hr>
 
 <div align="left">
   <h3>Languages and Tools:</h3>
@@ -39,10 +43,14 @@
   </p>
 </div>
 
+<hr>
+
 <div align="left">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilan071&show_icons=true&locale=en&layout=compact" alt="thilan071" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilan071&show_icons=true&locale=en" alt="thilan071" /></p>
 </div>
+
+<hr>
 
 <div align="center">
   <img src="https://github.com/Thilan071/Thilan071/blob/output/github-snake-dark.svg" alt="snake gif">
