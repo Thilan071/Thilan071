@@ -4,14 +4,14 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Thilan Theekshana</h1>
-  <h3>A passionate frontend developer from Sri Lanka</h3>
+  <h3>A passionate fullstack developer from Sri Lanka</h3>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <p>
   - 🔭 I’m currently working on **Flutter App Development**<br>
-  - 🌱 I’m currently learning **React Native**<br>
-  - 💬 Ask me about **Java & JavaScript**<br>
+  - 🌱 I’m currently learning **Machine Learning**<br>
+  - 💬 Ask me about **Java & Flutter**<br>
   - ⚡ Fun fact **I think I am very funny**
 </p>
 
